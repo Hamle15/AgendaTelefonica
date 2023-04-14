@@ -1,0 +1,33 @@
+/* styles.css */
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.contact-card {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.contact-card h3 {
+  margin-top: 0;
+}
+
+.btn-group {
+  margin-top: 10px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-group label {
+  font-weight: bold;
+}
+
+.form-group input {
+  width: 100%;
+}
